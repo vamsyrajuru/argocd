@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: helm-apps/many-envs-chart
-    repoURL: https://github.com/codefresh-contrib/gitops-certification-examples
+    repoURL: https://github.com/vamsyrajuru/argocd
     targetRevision: HEAD
     helm:
       valueFiles:
